@@ -4,3 +4,6 @@
 go-crud/.env
 go-crud/.env
 go-crud/.env
+go-jwt/.env
+/go-jwt/.idea
+/go-jwt/tmp
